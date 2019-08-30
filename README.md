@@ -1,3 +1,5 @@
+# This was used for PR requests, please see the original repository for the most up to date version of the theme
+
 # Bulma Portfolio Theme
 
 The **Bulma Portfolio** Theme is for [Grav CMS](http://github.com/getgrav/grav).  
